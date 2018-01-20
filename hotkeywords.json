@@ -1,0 +1,27 @@
+{
+  "result": [
+    {
+      "keyword": "Kotlin"
+    },
+    {
+      "keyword": "前端"
+    },
+    {
+      "keyword": "机器学习"
+    },
+    {
+      "keyword": "Swift"
+    },
+    {
+      "keyword": "Python"
+    },
+    {
+      "keyword": "React"
+    },
+    {
+      "keyword": "区块链"
+    }
+  ],
+  "message": "获取热门关键词成功",
+  "code": 0
+}
